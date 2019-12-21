@@ -1,0 +1,2 @@
+# fuck-git
+fuck-git～
